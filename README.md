@@ -19,7 +19,7 @@ not do anything stupid. Permission is granted to use and modify the code.
 
 Please cite our AISTATS paper in your publications if it helps your research:
 
-    @inproceedings{Gan15dsbn,
+    @inproceedings{DSBN_AISTATS2015,
       Author = {Z. Gan, R. Henao, D. Carlson, and L. Carin},
       Title = {Learning Deep Sigmoid Belief Networks with Data Augmentation},
       booktitle={AISTATS},
