@@ -2,7 +2,7 @@
 
 The Matlab Code for the AISTATS 2015 paper "Learning Deep Sigmoid Belief Networks with Data Augmentation"
 
-Created by Zhe Gan (zhe.gan@duke.edu), Duke University, ECE department.
+Zhe Gan (zhe.gan@duke.edu), Duke University, ECE department.
 
 ## Introduction
 
@@ -25,6 +25,12 @@ Please cite our AISTATS paper in your publications if it helps your research:
       booktitle={AISTATS},
       Year  = {2015}
     }
+	
+## Data
+
+The datasets we used in the paper (.mat format files) can be downloaded from
+
+https://drive.google.com/drive/u/0/folders/0B1HR6m3IZSO_SW1jS1ZtRXlpakU.
 
 
  
